@@ -42,7 +42,7 @@ This project uses Natural Language Processing (NLP) and Scikit-learn to detect f
 
 ## 🖥️ How to Run (Colab)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/fake-news-detector/blob/main/Fake_News_Detection_Project.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/psk1994-data/fake-news-detector_project/blob/main/Fake_News_Detection_Project.ipynb)
 
 ---
 
